@@ -1,2 +1,2 @@
-Visit the link: [a link] (https://sidoliver.github.io/dice-game/)
+Visit the link: https://sidoliver.github.io/dice-game/
 
